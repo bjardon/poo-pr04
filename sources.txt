@@ -1,0 +1,13 @@
+./LeerDatos/LeerDatosPOO/Lector.java
+./LeerDatos/LeerDatosPOO/LeerDatosPOO.java
+./LeerDatos/LeerDatosEstructurado/LeerDatos.java
+./Prueba/PruebaEstructurada/Prueba.java
+./Prueba/PruebaPOO/PruebaPOO.java
+./Prueba/PruebaPOO/Prueba.java
+./Operadores/Calculadora.java
+./Operadores/OperadoresPOO.java
+./Operadores/Terminal.java
+./OperadoresPila/CalculadoraP.java
+./OperadoresPila/OperadoresPOOPila.java
+./OperadoresPila/Comando.java
+./OperadoresPila/TerminalP.java
